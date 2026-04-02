@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hotstarcont
-        image: rajeshtutta123/hotstar2:latest
+        image: rajeshtutta123/rajesh_hotstar-02-04-26:latest
         ports:
         - containerPort: 80
