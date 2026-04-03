@@ -5,6 +5,7 @@ pipeline {
     environment {
         SONARQUBE_ENV = 'sq'
         DOCKER_IMAGE = "naveennallamsetti/k8s-hotstar"
+        RECIPIENTS = "naveennallamsetti60@gmail.com"
     }
 
     stages {
